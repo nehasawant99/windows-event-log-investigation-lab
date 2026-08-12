@@ -50,6 +50,10 @@ brute-force activity.
 5. Were there multiple attempts?
 6. Was a successful login observed afterwards?
 
+## Evidenace
+
+![Event ID 4624](../evidence/screenshots/4624-successful-logon.png)
+
 ## Conclusion
 
 The observed event represents a failed authentication
