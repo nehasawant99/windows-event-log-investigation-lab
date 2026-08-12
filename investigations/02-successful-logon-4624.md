@@ -15,11 +15,11 @@ A successful login was performed using the test account in a
 controlled Windows lab environment.
 
 ## Important Fields
-- Account Name:
-- Logon Type:
-- Workstation Name:
-- Source Network Address:
-- Timestamp:
+- Account Name: TEJAS
+- Logon Type:5
+- Workstation Name: nothing
+- Source Network Address: nothing
+- Timestamp: 12-08-2026 15:57:20
 
 ## Analysis
 Event ID 4624 indicates that a user successfully logged on.
