@@ -52,7 +52,7 @@ brute-force activity.
 
 ## Evidenace
 
-![Event ID 4624](../evidence/screenshots/4624-successful-logon.png)
+![Event ID 4625](../evidence/screenshots/4625-event-viewer.png)
 
 ## Conclusion
 
